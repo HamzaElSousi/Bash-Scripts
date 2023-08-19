@@ -1,0 +1,2 @@
+Welcome {USERNAME}
+Thank you for joining our system. We hope you have a wonderful experience!
